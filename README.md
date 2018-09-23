@@ -7,6 +7,7 @@ Three.js glass absorption
 <br>
 
 This project fakes glass absorption by using depth-peeling to gather how long a light ray traveled before entering the virtual camera
+
 It is non-physical since rays don't take refraction into account but nonetheless an interesting shader for glass materials in Three.js
 
 
